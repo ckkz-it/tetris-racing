@@ -8,7 +8,7 @@ Currently (March 11, 2020) only base functionality implemented:
 - get score scaled over time
 - reset score on crash
 
-[Play](https://ckkz-it.github.io/tetris-racing/dist/)
+[Play](https://ckkz-it.github.io/tetris-racing/)
 
 Technologies used:
 - p5.js
